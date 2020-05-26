@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunH-K/vanilla-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunH-K/vanilla-redux/issues"
+  },
+  "homepage": "https://github.com/JunH-K/vanilla-redux#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
